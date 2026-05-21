@@ -1,0 +1,6 @@
+*.o
+pktscan
+*.pcap
+*.pcapng
+__pycache__/
+.DS_Store
